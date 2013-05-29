@@ -1,0 +1,8 @@
+This is my vim configuration. You can just download it and put it under home dir.
+Hope you will enjoy it!
+
+plugins:
+1. DoxygenToolkit
+2. cscope setting
+3. neocomplcache-5.3
+4. taglist

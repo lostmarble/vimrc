@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/usr/share/texlive/texmf-dist'
+let g:netrw_dirhist_2='/usr/share/texlive/texmf-dist/tex'
+let g:netrw_dirhist_3='/usr/share/texlive/texmf-dist/tex/xelatex'
+let g:netrw_dirhist_4='/usr/share/texlive/texmf-dist/tex/xelatex/fontbook'
+let g:netrw_dirhist_5='/usr/share/texlive/texmf-dist/tex/xelatex'
+let g:netrw_dirhist_6='/usr/share/texlive/texmf-dist/tex/xelatex/xecjk'
+let g:netrw_dirhist_7='/usr/share/polkit-1/rules.d'
+let g:netrw_dirhist_8='/usr/share/polkit-1'
+let g:netrw_dirhist_9='/usr/share/polkit-1/actions'
