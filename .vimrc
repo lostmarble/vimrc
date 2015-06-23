@@ -8,6 +8,10 @@ set autochdir "auto change the dir to the current dir
 "--omnicppcomplete setting --
 set nocp
 "
+"
+
+
+
 "enable filetype plugin 
 filetype plugin on
 filetype indent on
@@ -284,3 +288,8 @@ nmap <C-@>e :cs find e <C-R>=expand("<cword>")<CR><CR>
 nmap <C-@>f :cs find f <C-R>=expand("<cfile>")<CR><CR>
 nmap <C-@>i :cs find i ^<C-R>=expand("<cfile>")<CR>$<CR>
 nmap <C-@>d :cs find d <C-R>=expand("<cword>")<CR><CR>
+
+
+
+"Comment color
+hi Comment ctermfg = gray
